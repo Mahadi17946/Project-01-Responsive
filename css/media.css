@@ -1,0 +1,228 @@
+@media (max-width: 320.98px){
+  .bannner-left h2 {
+    font-size: 40px;
+  }
+}
+
+@media (min-width: 321px) and (max-width: 575.98px) {
+  .navbar {
+    padding: 10px 0px !important;
+  }
+
+  .navbar-brand img {
+    width: 60% !important;
+  }
+
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+
+  .navbar-toggler {
+    border: 0;
+    color: black;
+  }
+  .navbar-nav {
+    margin-top: 10px;
+  }
+  .navbar-nav .nav-link {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.679);
+
+    line-height: 43px;
+    margin: 0 15px;
+    border-bottom: 1px solid #9d9d9d4e;
+    padding: 0px 0px !important;
+  }
+
+  .nav_btn {
+    padding-left: 15px;
+    margin: 35px 0px;
+  }
+
+  /***** Banner start ******/
+
+  #Banner {
+    padding: 0px 0px;
+  }
+
+  .bannner-left {
+    padding: 45px 15px;
+  }
+
+  .bannner-left h2 {
+    font-size: 43px;
+    line-height: 53px;
+    max-width: 100%;
+    padding-bottom: 10px;
+  }
+
+  .bannner-left p {
+    font-size: 17px;
+    line-height: 23px;
+    max-width: 95%;
+    padding-bottom: 30px;
+  }
+  .bbtn a {
+    font-size: 13px;
+    padding: 11.5px 16px;
+    
+  }
+  .bbtn .bbtn2  {
+    
+    padding: 11.5px 16px;
+}
+
+  .row > * {
+    padding-right: calc(var(--bs-gutter-x) * 0.625);
+    padding-left: calc(var(--bs-gutter-x) * 0.625);
+  }
+  .heading h2 {
+    font-size: 43px;
+    line-height: 53px;
+    padding-bottom: 35px;
+  }
+  .heading p {
+    font-size: 17px;
+    line-height: 23px;
+  }
+
+  /***** About start ******/
+
+  #About {
+    padding: 100px 0px;
+  }
+
+  .about-right p {
+    font-size: 17px;
+    line-height: 23px;
+  }
+  .about-right2 p {
+    font-size: 16px;
+    padding-bottom: 0;
+    line-height: 23px;
+  }
+  .about-right2 {
+    margin-bottom: 10px;
+    padding: 5px !important;
+  }
+.about-right h3 {
+    
+    line-height: 53px;
+  
+}
+  .team1 h3 {
+    font-size: 36px;
+  }
+
+  /******Team start with********/
+  #team {
+    padding-bottom: 100px;
+  }
+  .t-item {
+    margin-bottom: 20px;
+  }
+
+  .row {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  /******Project start with********/
+
+  #project {
+    padding-bottom: 100px;
+  }
+  .P-item {
+  margin-bottom: 10px;
+}
+
+  /******According start with********/
+  #faq {
+    margin-bottom: 100px;
+  }
+  #faq h3 {
+    padding-top: 50px;
+    line-height: 45px;
+    padding-top: 50px;
+  }
+  .faq-right {
+    padding-left: 0px;
+    padding-bottom: 30px;
+  }
+  .accordion-item button {
+    line-height: 24px;
+    font-size: 16px;
+  }
+  .accordion-body p {
+    font-size: 15px;
+    line-height: 23px;
+  }
+  .team1 h3 {
+    line-height: 45px;
+  }
+
+  /******Video start with********/
+
+  #video p {
+    font-size: 17px;
+    line-height: 24px;
+    margin-bottom: 0;
+    padding-right: 0px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+  }
+  #video {
+    padding-bottom: 5px;
+  }
+
+  .video1 img {
+    margin-bottom: 30px;
+  }
+
+  /******Form start with********/
+
+  #from {
+    padding: 0px 0px 0px 0px;
+  }
+
+  .f-heading {
+    padding-top: 0px;
+    padding-left: 0px;
+  }
+
+  #from {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #f9f3e9;
+  }
+
+  .f-heading h4 {
+    font-size: 40px;
+    line-height: 57px;
+    font-weight: 400;
+  }
+
+  .field input,
+  .field textarea {
+    padding: 10px;
+    font-size: 17px;
+    line-height: 28px;
+    color: black;
+  }
+  input::placeholder {
+    font-size: 16px;
+  }
+
+  .join-btn button {
+    font-size: 17px;
+    line-height: 23px;
+    padding: 12px 18px;
+    margin-top: 35px;
+  }
+
+  .footer p {
+    font-size: 15px;
+    line-height: 22px;
+  }
+  
+}
